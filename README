@@ -1,0 +1,18 @@
+Tk::Options
+
+	An interface to Getopt::Long and Tk
+
+You need:
+	perl5.00x
+	Tk400.20x
+	Data-Dumper-2.0x (not unconditionally necessary)
+
+Installation:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+Author:
+	Slaven Rezic <eserte@cs.tu-berlin.de>

@@ -1,0 +1,10 @@
+Changes
+MANIFEST
+Makefile.PL
+Options.pm
+README
+t/all.t
+t/getopt.t
+t/getopt2.t
+t/opttest
+t/simple.t
